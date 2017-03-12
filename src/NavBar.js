@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
         top: 22,
       },
       android: {
-        top: 10,
+        top: 8,
       },
       windows: {
         top: 8,
