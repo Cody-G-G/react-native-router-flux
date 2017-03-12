@@ -160,8 +160,8 @@ const styles = StyleSheet.create({
     fontSize: 17,
   },
   backButtonImage: {
-    width: 13,
-    height: 21,
+    height: 24,
+    resizeMode: 'contain',
   },
   defaultImageStyle: {
     height: 24,
